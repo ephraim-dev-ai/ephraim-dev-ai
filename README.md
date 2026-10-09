@@ -221,7 +221,7 @@ I'm open to meaningful conversations and opportunities involving software develo
 
 <br/><br/>
 
-<a href="mailto:ephraim.shibru@gmail.com">✉️ [ephraim.shibru@gmail.com](mailto:ephraim.shibru@gmail.com)</a>
+<a href="mailto:ephraim.shibru@gmail.com">✉️ [kindlyephraim@gmail.com](mailto:ephraim.shibru@gmail.com)</a>
 
 <br/><br/>
 
