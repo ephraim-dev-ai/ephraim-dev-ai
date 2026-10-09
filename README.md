@@ -36,7 +36,7 @@
 
 I'm **Ephraim Shibru**, a software developer and IT student from Ethiopia with an interest in building practical software, business management systems, and AI-powered tools.
 
-As the founder and lead developer at **[WithUnion.net](https://withunion.net)**, I work toward creating digital solutions that address real operational challenges for businesses and organizations.
+As the lead developer at **[WithUnion.net](https://withunion.net)**, I work toward creating digital solutions that address real operational challenges for businesses and organizations.
 
 I enjoy understanding a problem, breaking it into manageable components, and developing solutions that are useful, maintainable, and easier to understand.
 
