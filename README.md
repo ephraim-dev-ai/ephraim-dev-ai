@@ -19,6 +19,9 @@
   <a href="https://linkedin.com/in/ephraim-shibru">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.upwork.com/freelancers/~012f4b020e841fa8a3">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"/>
+  </a>
   <a href="https://withunion.net">
     <img src="https://img.shields.io/badge/WithUnion-Digital%20Solutions-0878F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WithUnion"/>
   </a>
@@ -214,6 +217,9 @@ I'm open to meaningful conversations and opportunities involving software develo
 </a>
 <a href="https://github.com/Ephasoon?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~012f4b020e841fa8a3">
+  <img src="https://img.shields.io/badge/Upwork-View%20My%20Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="View my Upwork profile"/>
 </a>
 <a href="https://withunion.net">
   <img src="https://img.shields.io/badge/WithUnion-Our%20Website-0878F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WithUnion website"/>
